@@ -23,9 +23,9 @@
    },
    "homepage": "https://github.com/roddyyaga/bs-ppx_yojson_conv#readme",
    "devDependencies": {
-      "bs-platform": "^6.0.0"
+      "bs-platform": "^7.3.2"
    },
    "peerDependencies": {
-      "bs-platform": "^6.0.0"
+      "bs-platform": "^7.3.2"
    }
 }
